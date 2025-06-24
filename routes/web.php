@@ -1,15 +1,7 @@
 <?php
 
-use App\Http\Controllers\AuthController;
-use App\Http\Controllers\ProfileController;
-use App\Http\Controllers\SellerAuthController;
-use App\Http\Controllers\Web\OrderController;
-use App\Http\Controllers\SellerController;
-use App\Http\Controllers\UserController;
-use App\Http\Controllers\Web\AdminDashboardController;
+use App\Http\Controllers\Web\ProfileController;
 use App\Http\Controllers\Web\DashboardController;
-use App\Http\Controllers\Web\HomeController;
-use App\Http\Controllers\Web\ReportController;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Foundation\Application;
 
